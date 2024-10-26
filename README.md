@@ -1,7 +1,7 @@
 # Handwritten Arabic Character Recognition using Deep Neural Networks
 
 **Authors:** Nada Mohammed Alharbi  
-**Project Type:** Academic Project for CCAI-435 - Deep Neural Networks  
+**Project Type:** Academic Project for Deep Neural Networks  
 
 ## Project Overview
 This project focuses on building a deep neural network model for recognizing handwritten Arabic characters. Due to the complexity of Arabic script and variations in handwriting, this is a challenging task in the fields of pattern recognition and computer vision. Accurate recognition of Arabic characters is essential for various applications, such as document processing, text digitization, and language translation. This project leverages Convolutional Neural Networks (CNNs) to achieve high accuracy in recognizing Arabic characters.
